@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("HelloWorld\n");
+    printf("JUIL\n");
     return 0;
 
 }
